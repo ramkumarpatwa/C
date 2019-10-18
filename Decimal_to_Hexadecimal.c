@@ -5,7 +5,7 @@ int main()
     printf("Enter a number :");
     scanf("%d",&n);
     printf("\nValue of decimal number :%d",n);
-    printf("\nValue of Octal number :%o",n);
+    
     printf("\nValue of Hexadecimal :%x or %X",n,n);
 }
 // Enter a number :2567
