@@ -7,7 +7,7 @@ int main()
     scanf("%d%d",&a,&b);
     start:
     printf("\nEnter choose option \n1.Add\n2.Subtract\n3.Multiply\n4.Division\n");
-    scanf("%d",&op);
+    
     switch(op)
     {
         case 1:
