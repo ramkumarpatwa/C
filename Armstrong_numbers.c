@@ -2,6 +2,7 @@
 void fun(int n)
 {
     int sum=0,r,l;
+    int av;
     l=n;
     while(l>0)
     {
