@@ -2,12 +2,13 @@
 void fun(int n)
 {
     int sum=0,r,l;
+    
     l=n;
     while(l>0)
     {
         r=l%10;
         sum=sum+r*r*r;
-        l=l/10;
+        
     }
     if(sum==n)
     printf("%d\t",n);
