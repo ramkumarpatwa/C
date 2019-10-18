@@ -2,6 +2,7 @@
 int main()
 {
     int n;
+    int k;
     float sum=0;
     printf("Enter the size of series :");
     scanf("%d",&n);
