@@ -5,7 +5,7 @@ void sum_even(int i,int *se)
 }
 void sum_odd(int i,int *so)
 {
-    *so=*so+i;
+    *so=*so+i+i+2;
 }
 int main()
 {
